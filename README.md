@@ -18,7 +18,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ## Links
 
 - Solution URL: [Github Repo](https://github.com/ahtesham-clcbws/UI-Recipe-page)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://ui-recipe-page.netlify.app)
 
 
 ## Built with
