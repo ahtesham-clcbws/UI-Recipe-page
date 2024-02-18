@@ -6,7 +6,7 @@ const outfit = Outfit({ weight: ['400', '600', '700'], subsets: ['latin'] });
 export default function Home() {
 
   return (
-    <main className={`sm:max-w-3xl sm:mx-auto bg-white sm:rounded-3xl p-0 sm:p-12 sm:my-36`}>
+    <main className={`sm:max-w-3xl sm:mx-auto bg-white sm:rounded-3xl p-0 sm:p-12 sm:my-28`}>
       
       <Image src="/assets/images/image-omelette.jpeg" alt="" className={`sm:rounded-2xl`} width={1000} height={450} />
 
